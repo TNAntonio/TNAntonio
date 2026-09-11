@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Antonio Rodrigues
 
-### 💻 Desenvolvedor em formação • JavaScript/TypeScript • Back-end
+### 💻 Desenvolvedor • JavaScript/TypeScript • Back-end
 
 <a href="https://github.com/TNAntonio">
   <img src="https://komarev.com/ghpvc/?username=TNAntonio&label=Profile%20views&color=6e40c9&style=flat" alt="Profile views"/>

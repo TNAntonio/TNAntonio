@@ -1,170 +1,172 @@
 <div align="center">
 
-# 👋 Olá, eu sou Antonio Rodrigues
+Antonio Rodrigues
 
-### 💻 Desenvolvedor • JavaScript/TypeScript • Back-end
+Desenvolvedor em formação • JavaScript • TypeScript • Node.js
+
+
+
+
+<br>
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Transformando+ideias+em+c%C3%B3digo.;Construindo+projetos+com+JavaScript+e+TypeScript.;Estudando+Node.js%2C+APIs+e+SQL.;Foco+em+Back-end+e+boas+pr%C3%A1ticas." alt="Typing SVG" />
+</a>
+
+</div>
+
+👨‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo minha carreira em tecnologia com foco em desenvolvimento back-end.
+
+Gosto de aprender colocando a mão no código: criando projetos, testando ideias, entendendo como as aplicações funcionam por trás das interfaces e evoluindo pouco a pouco minha forma de escrever software.
+
+Meu foco atual: transformar estudo em experiência prática e construir uma base forte para minha primeira oportunidade profissional em desenvolvimento/TI.
+
+⚡ Stack
+
+<div align="center">
+
+Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,html,css" />
+
+Banco de dados & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+
+</div>
+
+🧩 O que estou estudando
+
+Área
+
+Foco
+
+JavaScript
+
+ES6+, DOM, Promises, async/await e APIs
+
+TypeScript
+
+Tipagem, interfaces, enums e organização de código
+
+Node.js
+
+Back-end, módulos, serviços e aplicações
+
+APIs REST
+
+Requisições, respostas, status HTTP e integração
+
+SQL
+
+SELECT, filtros, agregações, JOIN e CRUD
+
+Git & GitHub
+
+Versionamento, branches e organização de projetos
+
+🚀 Projetos
+
+<div align="center">
+
+<a href="https://github.com/TNAntonio/Calculadora.js">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TNAntonio&repo=Calculadora.js&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/TNAntonio/DesafiosEmJS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TNAntonio&repo=DesafiosEmJS&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/TNAntonio/APs-de-Estrutura-de-dados">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TNAntonio&repo=APs-de-Estrutura-de-dados&hide_border=true&theme=transparent" />
+</a>
+
+<a href="https://github.com/TNAntonio/projeto-site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TNAntonio&repo=projeto-site&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+🛒 Projeto em destaque — Carrinho de compras
+
+Projeto desenvolvido em Node.js para praticar lógica de aplicação e organização de código.
+
+src/
+├── index.js
+├── service/
+│   ├── cart.js
+│   └── item.js
+└── ...
+
+Conceitos praticados: criação de itens, adicionar/remover produtos, cálculo de total e separação de responsabilidades.
+
+📊 GitHub
+
+<div align="center">
 
 <a href="https://github.com/TNAntonio">
-  <img src="https://komarev.com/ghpvc/?username=TNAntonio&label=Profile%20views&color=6e40c9&style=flat" alt="Profile views"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=TNAntonio&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/TNAntonio">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNAntonio&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
 </a>
 
 <br><br>
 
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Construindo+projetos+com+JavaScript+%F0%9F%9A%80;Estudando+TypeScript+e+Node.js+%F0%9F%92%9A;Foco+em+Back-end%2C+APIs+e+boas+pr%C3%A1ticas+%F0%9F%94%A5;Sempre+aprendendo+e+evoluindo+%F0%9F%93%9A">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Construindo+projetos+com+JavaScript+%F0%9F%9A%80;Estudando+TypeScript+e+Node.js+%F0%9F%92%9A;Foco+em+Back-end%2C+APIs+e+boas+pr%C3%A1ticas+%F0%9F%94%A5;Sempre+aprendendo+e+evoluindo+%F0%9F%93%9A" alt="Typing SVG"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TNAntonio&hide_border=true&theme=transparent" />
 
 </div>
 
----
+🎯 Atualmente
 
-## 🚀 Sobre mim
+BACK-END
+██████████████████░░░░  JavaScript / Node.js
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira na área de tecnologia, com foco em **desenvolvimento back-end**.
+TYPESCRIPT
+████████████████░░░░░░  Tipagem e organização
 
-No momento, meu principal foco está no ecossistema **JavaScript**, estudando e praticando:
+APIs
+███████████████░░░░░░░  REST e integração
 
-- **JavaScript moderno (ES6+)**
-- **TypeScript**
-- **Node.js**
-- **APIs e integração com serviços**
-- **Programação assíncrona, Promises e async/await**
-- **SQL e bancos de dados**
-- **Git e GitHub**
+SQL
+██████████████░░░░░░░░  Consultas e banco de dados
 
-> 🎯 **Objetivo:** transformar conhecimento em projetos reais, evoluir minhas habilidades de engenharia de software e conquistar uma oportunidade como **estagiário de desenvolvimento/TI**.
+GIT
+██████████████████░░░░  Versionamento
 
----
+💡 Como gosto de aprender
 
-## 🧠 Tecnologias & ferramentas
+Estudar → Construir → Errar → Corrigir → Entender → Melhorar
 
-<div align="center">
+Cada projeto aqui representa uma etapa da minha evolução como desenvolvedor.
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-
-### Back-end & Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-
-### Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
----
-
-## 🔥 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 Shopee Cart API
-Projeto em **Node.js** simulando um carrinho de compras.
-
-**Principais conceitos:**
-- Organização por serviços
-- Manipulação de itens
-- Cálculo de total
-- Adição e remoção de produtos
-- Modularização
-
-<a href="https://github.com/TNAntonio">Ver projetos →</a>
-
-</td>
-
-<td width="50%">
-
-### ✅ Gerenciamento de tarefas
-Projeto focado em praticar **JavaScript/TypeScript** e organização de código.
-
-**Praticando:**
-- CRUD
-- Estrutura de projeto
-- Lógica de aplicação
-- TypeScript
-- Boas práticas
-
-<a href="https://github.com/TNAntonio">Ver no GitHub →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub em números
+📬 Contato
 
 <div align="center">
 
 <a href="https://github.com/TNAntonio">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TNAntonio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-</a>
-
-<a href="https://github.com/TNAntonio">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNAntonio&layout=compact&langs_count=8&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/TNAntonio">
-  <img src="https://streak-stats.demolab.com?user=TNAntonio&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-## 📈 O que estou estudando agora
-
-```text
-JavaScript       ████████████████████░░  90%
-TypeScript       ████████████████░░░░░░  75%
-Node.js          ███████████████░░░░░░░  70%
-SQL              ██████████████░░░░░░░░  65%
-APIs REST        ██████████████░░░░░░░░  65%
-Python           ███████████░░░░░░░░░░░  50%
-```
-
-<details>
-<summary>👀 Mais sobre meu foco</summary>
-
-<br>
-
-Estou direcionando meus estudos para uma base sólida de desenvolvimento:
-
-**Lógica → JavaScript → TypeScript → Node.js → APIs → SQL → Projetos reais**
-
-Também estou estudando conceitos de **arquitetura, redes, metodologias ágeis, cloud e boas práticas de desenvolvimento**.
-
-</details>
-
----
-
-## 🤝 Vamos conversar?
-
-<div align="center">
-
-<a href="https://github.com/TNAntonio">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:SEU_EMAIL_AQUI">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- Troque o link abaixo pelo seu LinkedIn -->
+
+<a href="SEU_LINKEDIN_AQUI">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⚡ "Código, prática e evolução."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" />
+🚀 Construindo hoje o desenvolvedor que quero ser amanhã.
 
 </div>

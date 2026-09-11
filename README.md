@@ -2,7 +2,7 @@
 
 Antonio Rodrigues
 
-Desenvolvedor em formação • JavaScript • TypeScript • Node.js
+Desenvolvedor • JavaScript • TypeScript • Node.js
 
 
 

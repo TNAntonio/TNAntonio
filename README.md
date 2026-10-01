@@ -157,8 +157,6 @@ Cada projeto aqui representa uma etapa da minha evolução como desenvolvedor.
 
 <br>
 
-<a href="mailto:luc.riodejaneiro69@yahoo.com.br">luc.riodejaneiro69@yahoo.com.br</a>
-
 <a href="https://www.linkedin.com/in/antoniorodrigues-dev">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

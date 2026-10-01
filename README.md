@@ -155,9 +155,7 @@ Cada projeto aqui representa uma etapa da minha evolução como desenvolvedor.
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- Troque o link abaixo pelo seu LinkedIn -->
-
-<a href="www.linkedin.com/in/antoniorodrigues-dev">
+<a href="https://www.linkedin.com/in/antoniorodrigues-dev">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

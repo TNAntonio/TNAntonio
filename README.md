@@ -151,9 +151,13 @@ Cada projeto aqui representa uma etapa da minha evolução como desenvolvedor.
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:luc.riodejaneiro69@yahoo.com.br">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://compose.mail.yahoo.com/?to=luc.riodejaneiro69%40yahoo.com.br">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=yahoo&logoColor=white" />
 </a>
+
+<br>
+
+<a href="mailto:luc.riodejaneiro69@yahoo.com.br">luc.riodejaneiro69@yahoo.com.br</a>
 
 <a href="https://www.linkedin.com/in/antoniorodrigues-dev">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
